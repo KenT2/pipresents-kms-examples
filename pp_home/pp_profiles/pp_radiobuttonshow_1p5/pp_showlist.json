@@ -1,5 +1,5 @@
 {
- "issue": "1.5.1",
+ "issue": "1.5.2",
  "shows": [
   {
    "admin-colour": "white",
@@ -29,8 +29,6 @@
    "empty-track-ref": "",
    "enable-catchup": "yes",
    "escape-track-ref": "",
-   "freeze-at-end": "yes",
-   "freeze-at-start": "no",
    "hint-colour": "white",
    "hint-font": "Helvetica 30 bold",
    "hint-justify": "left",
@@ -44,10 +42,13 @@
    "mplayer-audio": "hdmi",
    "mplayer-other-options": "",
    "mplayer-volume": "0",
-   "omx-audio": "hdmi",
-   "omx-other-options": "",
-   "omx-volume": "0",
-   "omx-window": "original",
+   "mpv-aspect-mode": "original",
+   "mpv-audio": "hdmi",
+   "mpv-freeze-at-end": "yes",
+   "mpv-freeze-at-start": "no",
+   "mpv-other-options": "",
+   "mpv-volume": "100",
+   "mpv-window": "showcanvas 200+200+400*300",
    "pause-timeout": "",
    "repeat": "single-run",
    "sched-everyday": "",
@@ -96,8 +97,7 @@
    "vlc-layer": "1",
    "vlc-other-options": "",
    "vlc-volume": "100",
-   "vlc-window": "showcanvas 0+0+400*300",
-   "web-window": "warp"
+   "vlc-window": "showcanvas 0+0+400*300"
   },
   {
    "audio-speaker": "stereo",
@@ -120,8 +120,6 @@
    "eggtimer-y": "100",
    "enable-catchup": "yes",
    "first-track-ref": "first",
-   "freeze-at-end": "yes",
-   "freeze-at-start": "no",
    "image-rotate": "0",
    "image-window": "original",
    "links": "pp-key-1 play image+audio\nbut1 play image+audio\npp-key-2 play image\nbut2 play image\npp-key-3 play audio\nbut3 play audio\npp-key-4 play video\nbut4 play video\npp-key-5 play subshow\npp-key-6 play message\npp-stop stop",
@@ -129,10 +127,13 @@
    "mplayer-audio": "hdmi",
    "mplayer-other-options": "",
    "mplayer-volume": "0",
-   "omx-audio": "hdmi",
-   "omx-other-options": "",
-   "omx-volume": "0",
-   "omx-window": "original",
+   "mpv-aspect-mode": "original",
+   "mpv-audio": "hdmi",
+   "mpv-freeze-at-end": "yes",
+   "mpv-freeze-at-start": "no",
+   "mpv-other-options": "",
+   "mpv-volume": "100",
+   "mpv-window": "showcanvas 200+200+400*300",
    "pause-timeout": "",
    "sched-everyday": "",
    "sched-monthday": "",
@@ -172,8 +173,7 @@
    "vlc-layer": "1",
    "vlc-other-options": "",
    "vlc-volume": "100",
-   "vlc-window": "showcanvas 0+0+400*300",
-   "web-window": "warp"
+   "vlc-window": "showcanvas 0+0+400*300"
   },
   {
    "background-colour": "#000000",
@@ -225,8 +225,6 @@
    "empty-track-ref": "",
    "enable-catchup": "yes",
    "escape-track-ref": "",
-   "freeze-at-end": "yes",
-   "freeze-at-start": "no",
    "hint-colour": "#ffffff",
    "hint-font": "Helvetica 30 bold",
    "hint-justify": "left",
@@ -240,10 +238,13 @@
    "mplayer-audio": "hdmi",
    "mplayer-other-options": "",
    "mplayer-volume": "0",
-   "omx-audio": "hdmi",
-   "omx-other-options": "",
-   "omx-volume": "0",
-   "omx-window": "original",
+   "mpv-aspect-mode": "original",
+   "mpv-audio": "hdmi",
+   "mpv-freeze-at-end": "yes",
+   "mpv-freeze-at-start": "no",
+   "mpv-other-options": "",
+   "mpv-volume": "100",
+   "mpv-window": "showcanvas 200+200+400*300",
    "pause-timeout": "",
    "repeat": "single-run",
    "sched-everyday": "",
@@ -292,8 +293,7 @@
    "vlc-layer": "1",
    "vlc-other-options": "",
    "vlc-volume": "100",
-   "vlc-window": "showcanvas 0+0+400*300",
-   "web-window": "warp"
+   "vlc-window": "showcanvas 0+0+400*300"
   }
  ]
 }

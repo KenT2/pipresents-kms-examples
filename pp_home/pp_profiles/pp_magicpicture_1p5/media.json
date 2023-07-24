@@ -1,5 +1,5 @@
 {
- "issue": "1.5.1",
+ "issue": "1.5.2",
  "tracks": [
   {
    "animate-begin": "",
@@ -7,11 +7,19 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
-   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "links": "",
    "location": "+/media/suits-short.mkv",
+   "mpv-aspect-mode": "warp",
+   "mpv-audio": "",
+   "mpv-freeze-at-end": "no",
+   "mpv-freeze-at-start": "after-first-frame",
+   "mpv-max-volume": "",
+   "mpv-other-options": "",
+   "mpv-subtitles": "no",
+   "mpv-volume": "",
+   "mpv-window": "showcanvas 100+100+400*300",
    "pause-timeout": "",
    "plugin": "",
    "show-control-begin": "",
@@ -30,20 +38,7 @@
    "track-text-type": "plain",
    "track-text-x": "",
    "track-text-y": "",
-   "type": "vlc",
-   "vlc-aspect-mode": "",
-   "vlc-aspect-ratio": "",
-   "vlc-audio": "",
-   "vlc-crop": "",
-   "vlc-freeze-at-end": "no",
-   "vlc-freeze-at-start": "after-first-frame",
-   "vlc-image-duration": "",
-   "vlc-layer": "1",
-   "vlc-max-volume": "",
-   "vlc-other-options": "",
-   "vlc-subtitles": "no",
-   "vlc-volume": "",
-   "vlc-window": "showcanvas 100+100+400*300"
+   "type": "mpv"
   }
  ]
 }

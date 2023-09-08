@@ -1,5 +1,5 @@
 {
- "issue": "1.5.2",
+ "issue": "1.5.3",
  "tracks": [
   {
    "animate-begin": "",
@@ -95,14 +95,14 @@
    "location": "+/media/dragon.mp3",
    "mplayer-audio": "",
    "mplayer-other-options": "",
-   "mplayer-volume": "-3",
+   "mplayer-volume": "",
    "pause-timeout": "",
    "plugin": "",
    "show-control-begin": "",
    "show-control-end": "",
    "thumbnail": "",
    "title": "Audio Track with background",
-   "track-html-background-colour": "white",
+   "track-html-background-colour": "#ffffff",
    "track-html-height": "300",
    "track-html-width": "300",
    "track-ref": "",

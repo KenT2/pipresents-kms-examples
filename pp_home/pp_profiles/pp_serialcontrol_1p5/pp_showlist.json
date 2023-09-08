@@ -1,5 +1,5 @@
 {
- "issue": "1.5.2",
+ "issue": "1.5.3",
  "shows": [
   {
    "audio-speaker": "stereo",
@@ -28,7 +28,7 @@
    "medialist": "radiobuttonshow.json",
    "mplayer-audio": "hdmi",
    "mplayer-other-options": "",
-   "mplayer-volume": "0",
+   "mplayer-volume": "100",
    "mpv-aspect-mode": "original",
    "mpv-audio": "hdmi",
    "mpv-freeze-at-end": "yes",
@@ -45,7 +45,7 @@
    "show-control-begin": "",
    "show-control-end": "",
    "show-control-events": "",
-   "show-html-background-colour": "white",
+   "show-html-background-colour": "#ffffff",
    "show-html-height": "300",
    "show-html-width": "300",
    "show-ref": "radiobuttonshow",
@@ -54,7 +54,7 @@
    "show-text-font": "Helvetica 20 bold",
    "show-text-justify": "left",
    "show-text-location": "",
-   "show-text-type": "text",
+   "show-text-type": "plain",
    "show-text-x": "0",
    "show-text-y": "0",
    "show-timeout": "0",
@@ -66,16 +66,7 @@
    "track-text-y": "40",
    "track-timeout": "0",
    "transition": "cut",
-   "type": "radiobuttonshow",
-   "vlc-aspect-mode": "stretch",
-   "vlc-audio": "hdmi",
-   "vlc-freeze-at-end": "yes",
-   "vlc-freeze-at-start": "no",
-   "vlc-image-duration": "5",
-   "vlc-layer": "1",
-   "vlc-other-options": "",
-   "vlc-volume": "100",
-   "vlc-window": "showcanvas 0+0+400*300"
+   "type": "radiobuttonshow"
   },
   {
    "background-colour": "#000000",

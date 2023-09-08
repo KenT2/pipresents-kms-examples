@@ -1,5 +1,5 @@
 {
- "issue": "1.5.2",
+ "issue": "1.5.3",
  "tracks": [
   {
    "animate-begin": "",
@@ -13,7 +13,7 @@
    "image-rotate": "",
    "image-window": "",
    "links": "",
-   "location": "+/media/crossing.gif",
+   "location": "+/media/mountain.jpg",
    "pause-text": "Paused......",
    "pause-text-colour": "#ffffff",
    "pause-text-font": "Helvetica 20 bold",
@@ -25,8 +25,8 @@
    "show-control-begin": "counter fred set 2\ncounter bill set 3",
    "show-control-end": "counter fred inc 1",
    "thumbnail": "",
-   "title": "crossing.gif",
-   "track-html-background-colour": "white",
+   "title": "mountain",
+   "track-html-background-colour": "#ffffff",
    "track-html-height": "300",
    "track-html-width": "300",
    "track-ref": "",

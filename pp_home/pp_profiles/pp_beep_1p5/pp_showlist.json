@@ -1,5 +1,5 @@
 {
- "issue": "1.5.2",
+ "issue": "1.5.3",
  "shows": [
   {
    "admin-colour": "#ffffff",
@@ -41,7 +41,7 @@
    "medialist": "mediashow.json",
    "mplayer-audio": "hdmi",
    "mplayer-other-options": "",
-   "mplayer-volume": "0",
+   "mplayer-volume": "100",
    "mpv-aspect-mode": "original",
    "mpv-audio": "hdmi",
    "mpv-freeze-at-end": "yes",
@@ -88,16 +88,7 @@
    "trigger-start-param": "",
    "trigger-start-type": "start",
    "trigger-wait-text": "Waiting for Trigger....",
-   "type": "mediashow",
-   "vlc-aspect-mode": "stretch",
-   "vlc-audio": "hdmi",
-   "vlc-freeze-at-end": "yes",
-   "vlc-freeze-at-start": "no",
-   "vlc-image-duration": "5",
-   "vlc-layer": "1",
-   "vlc-other-options": "",
-   "vlc-volume": "100",
-   "vlc-window": "showcanvas 0+0+400*300"
+   "type": "mediashow"
   },
   {
    "background-colour": "#000000",

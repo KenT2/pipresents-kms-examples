@@ -1,5 +1,5 @@
 {
- "issue": "1.5.2",
+ "issue": "1.5.3",
  "tracks": [
   {
    "animate-begin": "",
@@ -25,7 +25,7 @@
    "show-control-begin": "",
    "show-control-end": "",
    "thumbnail": "",
-   "title": "crossing.gif",
+   "title": "space",
    "track-html-background-colour": "#ffffff",
    "track-html-height": "300",
    "track-html-width": "300",
